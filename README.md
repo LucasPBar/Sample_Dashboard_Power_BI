@@ -1,5 +1,7 @@
 # 📊 Formação Power BI Analyst - Projeto DIO
 
+![Image](https://github.com/user-attachments/assets/a1a1dc1c-605f-45b6-bef0-cb009e36823b)
+
 Este projeto foi desenvolvido como parte do bootcamp **“Formação Power BI Analyst”**, promovido pela [DIO](https://www.dio.me/). O desafio teve como objetivo aplicar na prática os conceitos aprendidos ao longo da trilha, explorando técnicas de **modelagem de dados**, **criação de visualizações** e **construção de relatórios interativos** no Power BI.
 
 ---
